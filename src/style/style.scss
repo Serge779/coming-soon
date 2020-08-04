@@ -91,10 +91,11 @@ body {
     
             form {
                 margin-top: 25px;
+                height: 45px;
     
                 input {
                     width: 310px;
-                    height: 46px;
+                    height: 100%;
                     margin: 0;
                     padding: 0 10px;
                     background: #fff;
@@ -107,7 +108,7 @@ body {
         
                 button {
                     width: 130px;
-                    height: 46px;
+                    height: 100%;
                     margin: 0;
                     padding: 0;
                     background-image: linear-gradient(to top, #3a2bdc, #4d2fdf, #5c34e1, #6a39e4, #763ee7, #8242ea, #8e46ec, #994bef, #a750f2, #b554f4, #c25af7, #cf5ff9);

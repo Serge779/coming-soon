@@ -124,11 +124,12 @@ body {
 
 .container .wrapper .subscribe form {
   margin-top: 25px;
+  height: 45px;
 }
 
 .container .wrapper .subscribe form input {
   width: 310px;
-  height: 46px;
+  height: 100%;
   margin: 0;
   padding: 0 10px;
   background: #fff;
@@ -141,7 +142,7 @@ body {
 
 .container .wrapper .subscribe form button {
   width: 130px;
-  height: 46px;
+  height: 100%;
   margin: 0;
   padding: 0;
   background-image: -webkit-gradient(linear, left bottom, left top, from(#3a2bdc), color-stop(#4d2fdf), color-stop(#5c34e1), color-stop(#6a39e4), color-stop(#763ee7), color-stop(#8242ea), color-stop(#8e46ec), color-stop(#994bef), color-stop(#a750f2), color-stop(#b554f4), color-stop(#c25af7), to(#cf5ff9));
