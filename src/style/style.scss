@@ -20,9 +20,6 @@ body {
 
 .container {
     height: 100vh;
-    background-image: url(../image/bg.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
     position: relative;
 
     .logo {
@@ -140,6 +137,12 @@ body {
                 }
             }
         }
+    }
+
+    .background {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
     }
 
     .gradient {
